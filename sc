@@ -3,3 +3,5 @@ Register-PSRepository -Name SitecoreGallery -SourceLocation https://sitecore.myg
 Get-Module SitecoreInstallFramework –ListAvailable
 
 Import-Module C:\<CustomLocation>\SitecoreInstallFramework
+
+ Install-SitecoreConfiguration -Path .\prerequisites.json
