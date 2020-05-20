@@ -13,4 +13,4 @@ Import-Module C:\<CustomLocation>\SitecoreInstallFramework
  
  az-uaen-retailtech-sitecore-sqlmi-prod.40fa2ddaed92.database.windows.net
  
-Mashreqbanksqladmin@1234
+Mashreqbanksqladmin@1234Test32
