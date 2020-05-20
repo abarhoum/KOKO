@@ -8,3 +8,5 @@ Get-Module SitecoreInstallFramework –ListAvailable
 Import-Module C:\<CustomLocation>\SitecoreInstallFramework
 
  Install-SitecoreConfiguration -Path .\prerequisites.json
+ 
+ https://tinyurl.com/y7rndda3
